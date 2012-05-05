@@ -76,5 +76,5 @@ PRODUCT_COPY_FILES  += \
 	vendor/amazon/otter/proprietary/alsa/Audible.param:/system/etc/Audible.param
 
 PRODUCT_COPY_FILES += \
-        vendor/aokp/prebuilt/common/app/NovaLauncher.apk:system/app/NovaLauncher.apk \
-        vendor/aokp/prebuilt/common/media/bootanimation.zip:system/media/bootanimation.zip \
+        vendor/BlackICE/prebuilt/common/app/ApexLauncher.apk:system/app/ApexLauncher.apk \
+        vendor/BlackICE/prebuilt/common/media/bootanimation.zip:system/media/bootanimation.zip \
